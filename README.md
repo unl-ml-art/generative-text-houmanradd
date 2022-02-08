@@ -1,6 +1,6 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
+Houman Kosarirad, hkosarirad2@unl.edu
 
 (Your teammate's contact info, if appropriate)
 
