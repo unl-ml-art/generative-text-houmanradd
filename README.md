@@ -6,7 +6,7 @@ Houman Kosarirad, hkosarirad2@unl.edu
 
 ## Abstract
 
-IncThe project was about using DL to generate text from Drakula book. 
+IncThe project was about using DL to generate text from Drakula book. I used Drakula text as Fine-tuning for this project. my goal is to create new story with subject of love story. 
 
 ## Model/Data
 
