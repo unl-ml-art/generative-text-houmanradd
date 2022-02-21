@@ -27,8 +27,8 @@ Your code for generating your project:
 ## Technical Notes
 
 Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+- Does this code require other pip packages, software, etc? just pip package. 
+- Does it run on some other (non-datahub) platform? (CoLab, etc.) no 
 
 ## Reference
 
