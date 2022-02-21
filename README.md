@@ -12,7 +12,7 @@ IncThe project was about using DL to generate text from Drakula book. I used Dra
 
 Briefly describe the files that are included with your repository:
 - trained models
-- training data (or link to training data). what is your corpus?
+- training data (or link to training data). what is your corpus?  yes, I added to Github. 
 
 ## Code
 
