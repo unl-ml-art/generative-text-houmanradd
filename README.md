@@ -6,7 +6,7 @@ Houman Kosarirad, hkosarirad2@unl.edu
 
 ## Abstract
 
-IncThe project was about using DL to generate text from Drakula book. I used Drakula text as Fine-tuning for this project. my goal is to create new story with subject of love story. 
+IncThe project was about using DL to generate text from Drakula book. I used Drakula text as Fine-tuning for this project. my goal is to create new story with subject of love story.Ot illustrate the project, I used gpt2 and the Drakula book as a data. Also I added some words like  "hug, like, love, honey, babe" as from trained models in gpt. So, what happend is that the model used drakula book and also the related words to love to create the story. In fact, some parts were intesteing and totally make sense that this is a love story, yet some other parts not. 
 
 ## Model/Data
 
