@@ -2,7 +2,7 @@
 
 Houman Kosarirad, hkosarirad2@unl.edu
 
-(Your teammate's contact info, if appropriate)
+
 
 ## Abstract
 
@@ -26,14 +26,9 @@ Your code for generating your project:
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc? just pip package. 
-- Does it run on some other (non-datahub) platform? (CoLab, etc.) no 
+GPt2 and trained models. 
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-  - [This is a paper](this_is_the_link.pdf)
-- Repositories
-- Blog posts
+https://openai.com/blog/better-language-models/
+https://nerdist.com/article/neural-net-ridiculous-candy-hearts/
